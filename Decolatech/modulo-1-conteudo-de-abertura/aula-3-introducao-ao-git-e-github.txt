@@ -1,0 +1,21 @@
+Objetivo Geral - Motrar os primeiros contatos teóricos e práticos com o Git e o GitHub, suas diferenças e utilidades.
+
+Professor Otávio Reis Perkles
+
+Tópicos e resumo
+
+Parte 1 - Introdução ao Git
+  - video 1 - Entendendo o Git e sua importância: Git é um repositório de código para desenvilvimento de programas.
+
+Parte 2 - Navegação via command line interface e instalação
+  - video 1 - Comandos básicos: cd (mudança de pasta), dir (lista todosos arquivos), mkdir (cria pastas), del/rmdir (deleta arquivos) e clear (limpa a tela do Git).
+  - video 2 - Realizando a instalação do GIT (https://git-scm.com/downloads) 
+
+Parte 3 - Entendendo como o Git funciona por baixo dos panos
+  - video 1 - Tópicos funda para entender o git: Sha1 (algoritmo de encriptação que pega o arquivo e embaralha transformando em um id de 40 dígitos. BLOBS (retêm o Sha em si com mais alguns caracteres), TREE (armazena BLOBS e podem se ligar a outras TREES).
+
+Parte 4 - Primeiros comandos com Git
+  - video 1 - lista de comandos para aprender a criar um commit: git init (cria repositório), git add(adiciona arquivos à linha de comando), git commit (cria a frase que irá com a atualização do arquivo), ls -a (mostra arquivos ocultos), cd <pasta> (abre pasta específica), cd .. (volta a pasta acima).
+
+Parte 5 - Ciclo de vida dos arquivo no Git
+  - video 1 - passo a passo: Untracked (adiciona o arquivo), Unmodified (arquivo não modificado), Modified (arquivo é modificado), Staged (pronto para avaliação), Commit (lê e devolve o produto para Unmodified).
