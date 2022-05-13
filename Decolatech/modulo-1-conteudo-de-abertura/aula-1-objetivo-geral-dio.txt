@@ -1,0 +1,22 @@
+Objetivo Geral - O entendimento de todas as funções e utilidades da plataforma DIO e sua metodologia.
+
+Professor: Venilton Falvo Jr.
+
+Tópicos e resumo
+
+Parte 1 - Desvendando os Bootcamps DIO
+  - video 1 - explica-se como funciona todos os conteúdos educacionais como: cursos (para a fundamentação básica e conceitos básicos de cada conteúdo), mentorias (vivência sob acompanhamento prático e interatividade), Desafios de código (lógica e pensamento) e desafios de projeto (aulas práticas que colocam o conhecimento na criação de projetos para portifólio).
+  - video 2 - entendendo ná prática o funcionamento dos bootcamps
+
+Parte 2 - Desafios de código
+  - video 1 - conceituando o desafio de código que tem como objetivo desenvolver o pensamento computacional e o raciocínio lógico.
+  - video 2 - aula que ensina uma noção básica de como funciona o java, mas o propósito é entender como funciona o teste na plataforma DIO.
+  - video 3 - aula que ensina o mesmo desafio, mas com o JavaScript
+
+Parte 3 - Desafios de Projeto
+
+  - video 1 - define o desafio de projeto que se limita em ensinar como criar um portifólio consistente de projetos no GitHub e a importância disso para mostrar o progresso de cada aluno.
+  - video 2 - ná prática a ideia é mostrar como resolver e entregar os desafios para a plataforma avaliar sua prova e por conseguinte seu desempenho e crescimento com a programação.
+
+Parte 5 - Dicas finais e conclusão.
+  - video 1 - conclusão final do módulo com um resumo sobre o conteúdo.
