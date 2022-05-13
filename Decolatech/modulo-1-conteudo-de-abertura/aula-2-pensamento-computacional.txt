@@ -1,0 +1,35 @@
+Objetivo Geral - Definir o pensamento computacional, seu funcionamento e como funciona em nosso cotidiano.
+
+Professora: Juliana Mascarenhas
+
+Tópicos e resumo
+
+Parte 1 - Pensamento computacional
+  - video 1 - A introdução define o pensamento computacional como um processo de pensamento envolvido na solução, em passos computacionais que podem ser implementados em um computador.
+  - video 2 - Habilidades complementares dão divididas em raciocínio lógico(observação de um fenômeno para definir leis e teorias), dedução(deduzir, provar, que tal teorema criado é válido) e abdução(conclusão a partir da obervação).
+  - video 3 - Pilar Decomposição (segmentar tarefas para trabalhar em parte pequena dos problemas),
+  - video 4 - Pilar Reconhecimento de padrões (entender a base de cada objeto ex. cadeira que tem acento e encosto são os padrões, mas as cores e material variam de acordo com o modelo), 
+  - video 5 - Pilar Abstração (retira um objeto ou segmento de um mundo real e o leva para o mundo abstrato e é generalizado, 
+  - video 6 - Pilar Algorítmos (são o passo a passo  para concluir uma tarefa, precisa ser entendido por um ser humano e uma máquina).
+
+Parte 2 - Introdução à lógica de programação
+  - video 1 - Definição de lógica: Fornece um sentido para resolver determinada ordenação.
+  - video 2 - Tecnicas de lógica de programação: 1. técnica linear (sequencia de ações que dependem entre si ex. acordar, abrir o olho), 2. técnica estruturada (sequencia complexa que dá opções durante o processo ex. acordar, tomar café ou suco?) e  3. técnica modular (modula os processos para resolver o problema ex [módulo acordar] [módulo preparar bebida].
+
+Parte 3 - Fundamentos de algoritmos
+  - video 1 - Tipologia e Variáveis: Tipologia (pode ser dividida em números inteiros ex. -3,-2,-1,0,1,2,3, números reais ex. -5.33, -2, 0, 3, 4.5521, caractere que compõe todos os simbolos e lógico que representa o pensamento binário ex verdadeiro = 1, falso =0). Variável é definida como uma estrutura que vai receber um tipo de dado mas não tem certeza de seu valor.
+  - video 2 - Instruções primitivas: Determina as ações que vamos utilizar em cima de nossos dados (geralmente cálculos matemático e binários).
+  - video 3 - Estruturas condicionais e operadores. São direcionamentos que implementamos no sistem a partir do resultado do estiúlo ex. Se Resultado X = Aprovação, Se Resultado Y = Reprovação.
+  - video 4 - Vetores e matrizes: Vetor é uma váriavel que irá receber valores. As Matrizes são coleções de vetores.
+  - video 5 - Funções: Conjunto de instruções que realizam tarefas específicas.
+  - video 6 - Instruções de entrada/saída: São dados, processamento e resultado.
+
+Parte 4 - Linguagens de programação
+  - video 1 - Linguagem de programação: É um metodo padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte.
+  - video 2 - Como um computador entende o programa: O computador recebe o programa (código), compila (entende) e Objetiva o programa (executa).
+  - video 3 - Características de um programa: Legibilidade, redigibilidade, confiabilidade e custo.
+  - video 4 - Análise de código: Fáse léxica (filtra a informação bruta, particiona todo o código, classifica a importância de cada sentença e elimina termos que não são necessários), Fase sintática (Analisa os simbolos criados), Fase semântica (analisa as sentenças e significados da ordem dos símbolos).
+  - video 5 - Paradigmas de programação: Forma de resolução dos problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação.
+
+Parte 5 - Primeiro contato com a programação
+  - video 1 - Portugol: Programa com linguagem do dia a dia para utilizar na programação. [LINK PORTUGOL DONWLOAD](http://lite.acad.univali.br/portugol/)
